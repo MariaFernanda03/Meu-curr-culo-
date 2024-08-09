@@ -1,0 +1,9 @@
+*{
+  font-family: monospace;
+  background-color: black;
+  color: yellow;
+}
+h2{
+  text-decoration: underline;
+  text-transform: uppercase;
+}
